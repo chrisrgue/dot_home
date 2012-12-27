@@ -1,0 +1,5 @@
+
+# Map shiftlock to ordinary shift functionality
+remove Lock = Caps_Lock
+add Shift = Caps_Lock
+
