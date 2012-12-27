@@ -2,7 +2,7 @@ Installation
 ============
 
 
-1.  git clone git://github.com/.../dot_home.git ~/dot_home
+1.  git clone git://github.com/chrisrgue/dot_home.git ~/dot_home
 
 2. Create symlinks in $HOME to ~/dot_home/.* files:
 
