@@ -6,4 +6,4 @@ Installation
 
 2. Create symlinks in $HOME to ~/dot_home/.* files:
 
-  - bash ~/dot_home/move_dot_files_and_create_symlinks_to_target_dir.sh
+  - bash ~/dot_home/move_dot_files_and_create_symlinks_to_target_dir.sh ~/dot_home
